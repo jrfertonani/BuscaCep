@@ -32,8 +32,8 @@
     margin-right:  8px;
 }
 
-.containerInput input: :placeholder{
-    color: #f1f1f1;
+.containerInput input::placeholder{
+    color: #a1a;
 }
 
 .buttonSearch{
